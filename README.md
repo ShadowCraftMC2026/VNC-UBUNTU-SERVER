@@ -25,6 +25,30 @@ Ubuntu Desktop Web Browser Accessible Docker Image
 > noVNC CONNECTION BUTTON
 > AND ENJOY
 
+
+# SUPPORT PTERODACTYL PANEL
+
+Ubuntu	14.04	🔴 NO	
+16.04	🔴 NO *	
+18.04	🔴 NO *	
+20.04	🔴 NO *	
+22.04	✅ YES	8.3
+24.04	✅ YES	8.3
+26.04	✅ YES	8.3
+Debian	8	🔴 NO *	
+9	🔴 NO *	
+10	✅ YES	8.3
+11	✅ YES	8.3
+12	✅ YES	8.3
+13	✅ YES	8.3
+CentOS	6	🔴 NO	
+7	🔴 NO *	
+8	🔴 NO *	
+Rocky Linux	8	✅ YES	8.3
+9	✅ YES	8.3
+AlmaLinux	8	✅ YES	8.3
+9	✅ YES	8.3
+
 ## OR INSTALL VNC SERVER ON YOUR VPS
 
 ## Usage
